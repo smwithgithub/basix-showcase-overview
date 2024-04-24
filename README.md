@@ -10,7 +10,7 @@ This repository serves as a showcase for a project developed for 'ARA INC', demo
 
 Here are some screenshots showcasing the project's key features and functionalities:
 
-- <img src="https://github.com/smwithgithub/basix-showcase-overview/assets/126904136/3dbad747-cfe4-4dfc-9187-ccc5d533a548" alt="Screenshot (37)" width="300" height="200">
+- <img src="https://github.com/smwithgithub/basix-showcase-overview/assets/126904136/3dbad747-cfe4-4dfc-9187-ccc5d533a548" alt="Screenshot (37)" width="1000" height="200">
 - ![Screenshot (38)](https://github.com/smwithgithub/basix-showcase-overview/assets/126904136/6ac81702-c408-46f5-ad2d-81cce3116642)
 - ![Screenshot (39)](https://github.com/smwithgithub/basix-showcase-overview/assets/126904136/2f183be7-6488-43f3-a0d4-f7504436edd9)
 - ![Screenshot (40)](https://github.com/smwithgithub/basix-showcase-overview/assets/126904136/edc62799-a55e-4dbc-a902-c21b5b4b273b)
