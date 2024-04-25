@@ -1,6 +1,6 @@
-# Project Showcase
+# Basix: Empowering Modern Business
 
-Welcome to the showcase repository for Basix! (Source code is confidential)
+Welcome to the showcase repository for Basix!, time tracking solution. (Source code is confidential)
 
 ## Overview
 
