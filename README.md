@@ -4,21 +4,21 @@ Welcome to the showcase repository for Basix! (Source code is confidential)
 
 ## Overview
 
-This repository serves as a showcase for a project developed for 'ARA INC', demonstrating its key features, functionalities, and achievements.
+This repository serves as a showcase for a project developed for "ARA INC". It's a comprehensive time tracking solution designed to meet the needs of modern businesses. The system enables companies to register, invite employees with customized access permissions, and track their work hours efficiently.
 
 ## Features
 
-- 1. Time Tracking: Allows companies to track time logs of employees.
-- 2. Access Control: Provides role-based access permissions for company accounts and super admins.
-- 3. Employee Overview: Displays various information about employees, especially time tracking data.
-- 4. Online Status: Indicates when users are online in the employee list section.
-- 5. Automated Screenshots: Takes screenshots at random intervals while users are online and sends them to the database.
-- 6. Activity Tracking: Monitors keyboard and mouse activities of users when online.
-- 7. Idle Detection: Pauses the timer if no keyboard or mouse activity is detected for 5 minutes.
-- 8. Screen Monitoring: Allows super admins to monitor online users' screens by taking screenshots on demand.
-- 9. Kanban Board: Provides a kanban board for task management, including viewing, assigning, editing, and moving task stages.
-- 10. Secure Authentication: Implements fully secure user authentication using Spring Boot as the server-side application and relational database.
-- 11. Additional Features: Includes search, sort, create, update, and delete functionalities for enhanced user experience.
+- Time Tracking: Allows companies to track time logs of employees.
+- Access Control: Provides role-based access permissions for company accounts and super admins.
+- Employee Overview: Displays various information about employees, especially time tracking data.
+- Online Status: Indicates when users are online in the employee list section.
+- Automated Screenshots: Takes screenshots at random intervals while users are online and sends them to the database.
+- Activity Tracking: Monitors keyboard and mouse activities of users when online.
+- Idle Detection: Pauses the timer if no keyboard or mouse activity is detected for 5 minutes.
+- Screen Monitoring: Allows super admins to monitor online users' screens by taking screenshots on demand.
+- Kanban Board: Provides a kanban board for task management, including viewing, assigning, editing, and moving task stages.
+- Secure Authentication: Implements fully secure user authentication using Spring Boot as the server-side application and relational database.
+- Additional Features: Includes search, sort, create, update, and delete functionalities for enhanced user experience.
 
 ## Screenshots
 
